@@ -16,7 +16,11 @@ Resumes contain surfeit information that is not relevant for the HR/authority, a
 * Model Inference
  
 **Dataset Attributes**
+
 {
+
 'content' : resume content or free text
+
 'label' : Annotated Tagged Entities
+
 }
